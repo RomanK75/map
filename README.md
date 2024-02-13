@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/edn9753kk7j8ss6d?svg=true)](https://ci.appveyor.com/project/RomanK75/map)
+
 # Домашнее задание к лекции «Контейнеры»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
